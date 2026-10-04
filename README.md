@@ -1,5 +1,7 @@
 # dotnet-ci-orchardcore
 
+![dotnet-ci — A production .NET CI/CD pipeline](docs/dotnet-ci%20%E2%80%94%20A%20production%20NET%20CICD%20pipeline.jpg)
+
 A full .NET CI/CD pipeline built **around** an unforked OSS project:
 [OrchardCMS/OrchardCore](https://github.com/OrchardCMS/OrchardCore) pinned at
 `v3.0.1` / `b9c4b2f23e56ef11fbdbd28603c871d1b0fc9deb`.
